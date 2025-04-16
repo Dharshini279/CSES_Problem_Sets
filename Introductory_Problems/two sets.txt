@@ -1,0 +1,20 @@
+n=int(input())
+to=n*(n+1)//2
+if to%2==0:
+    print("YES")
+    t=to//2
+    a1=[]
+    a2=[]
+    for i in range(n,0,-1):
+        if t>=i:
+            a1.append(i)
+            t-=i
+        else:
+            a2.append(i)
+    print(len(a1))
+    print(*a1)
+    print(len(a2))
+    print(*a2)
+else:
+    print("NO")
+    

@@ -1,0 +1,12 @@
+from itertools import permutations
+n=input()
+ans=[]
+for i in permutations(n,len(n)):
+    ans.append(i)
+ans.sort()
+ans=set(ans)
+print(len(ans))
+for i in ans:
+    for j in i:
+        print(j,end="")
+    print()

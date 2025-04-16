@@ -1,0 +1,7 @@
+t=int(input())
+for i in range(t):
+    n1,n2=map(int,input().split())
+    if (n1+n2)%3==0 and min(n1,n2)*2>=max(n1,n2):
+        print("YES")
+    else:
+        print("NO")
