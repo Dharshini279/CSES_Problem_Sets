@@ -6,8 +6,8 @@ This repository contains solutions to various problems from the CSES Problem Set
 
 The repository is organized into different folders based on the categories of problems. Each folder contains:
 
-- **Code files**: `.txt` or language-specific files (e.g., `.cpp`, `.py`) containing the solution code for each problem.
-- **Explanation files**: `.txt` files that explain the approach used to solve the problem, including an overview of the problem, the algorithm used, and the time complexity.
+- **Code files**: `.txt` containing the solution code for each problem.
+- **Explanation files**: `.md` files that explain the approach used to solve the problem, including an overview of the problem, the algorithm used, and the time complexity.
 
 ## Problem Sets
 
