@@ -1,4 +1,4 @@
-**Problem:** Minimum Subset Sum Difference  
+**Problem:** Apple Division 
 
 ### Approach:
 - Calculate the total sum `t` of all array elements.
