@@ -1,19 +1,16 @@
-**Problem:** Apple Division 
+**Description of the Problem:**  
+You are given `n` apples with known weights. The goal is to divide them into two groups such that the absolute difference between the total weights of the two groups is minimized.
 
-### Approach:
-- Calculate the total sum `t` of all array elements.
-- Try all possible subsets using combinations.
+**Approach Used:**  
+- Brute-force using **subset generation** via `itertools.combinations`.
+- Try all possible subsets.
 - For each subset:
-  - Let its sum be `s1`.
-  - The other subset sum = `t - s1`.
-  - Update the minimum difference as `abs(t - 2 * s1)`.
+  - Let the sum be `s1`, then the second subset has sum `s2 = total - s1`.
+  - The absolute difference is `abs(total - 2 * s1)`.
+  - Keep track of the minimum difference.
 
-### Edge Cases:
-- Single element → one subset is empty.
-- Empty array → return 0.
-- Large arrays → very slow (brute-force).
+This approach is similar to the **"Minimum Subset Sum Difference"** problem, which is a variation of the classic **Partition Problem** in dynamic programming — but here it is solved by brute-force using combinations.
 
-### Time Complexity:
-- **Time:** O(2ⁿ × n)
-- **Space:** O(1) (extra)
-
+**Time Complexity:**  
+- **Time:** O(2ⁿ × n) — all possible subsets and their sums  
+- **Space:** O(1) extra, aside from input and combination storage
