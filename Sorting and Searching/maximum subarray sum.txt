@@ -1,9 +1,0 @@
-n=int(input())
-arr=list(map(int,input().split()))
-c=0
-m=max(arr)
-for i in range(n):
-    c=max(c+arr[i],arr[i])
-    m=max(m,c)
-print(m)
-    
