@@ -5,7 +5,7 @@ The task is to simulate the execution of an algorithm known as the **Collatz con
 - Repeat the steps until `n` becomes 1.
 
 For example, the sequence for `n = 3` is:
-$$ 3 \rightarrow 10 \rightarrow 5 \rightarrow 16 \rightarrow 8 \rightarrow 4 \rightarrow 2 \rightarrow 1 $$
+`3 → 10 → 5 → 16 → 8 → 4 → 2 → 1`
 
 ### Approach:
 This problem can be solved using a **while loop**:
