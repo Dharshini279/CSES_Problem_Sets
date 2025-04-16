@@ -28,12 +28,12 @@ The repository is organized into different folders based on the categories of pr
 14. [Problem 14: Weird Algorithm](Introductory_Problems/weird_algorithm.txt)        
 
 ### Sorting and Searching Problems
-1. [Problem 01: Collecting Numbers II](Sorting_And_Searching/collecting_numbers_II.txt)
-2. [Problem 02: Collecting Numbers](Sorting_And_Searching/collecting_numbers.txt)
-3. [Problem 03: Distinct Numbers](Sorting_And_Searching/distinct_numbers.txt)
-4. [Problem 04: Maximum Subarray Sum](Sorting_And_Searching/maximum_subarray_sum.txt)
-5. [Problem 05: Missing Coin Sum](Sorting_And_Searching/missing_coin_sum.txt)
-6. [Problem 06: Movie Festival](Sorting_And_Searching/movie_festival.txt)
-7. [Problem 07: Playlist](Sorting_And_Searching/playlist.txt)
-8. [Problem 08: Sum of Two Values](Sorting_And_Searching/sum_of_two_values.txt)
+1. [Problem 01: Collecting Numbers II](Sorting_and_Searching/collecting_numbers_II.txt)
+2. [Problem 02: Collecting Numbers](Sorting_and_Searching/collecting_numbers.txt)
+3. [Problem 03: Distinct Numbers](Sorting_and_Searching/distinct_numbers.txt)
+4. [Problem 04: Maximum Subarray Sum](Sorting_and_Searching/maximum_subarray_sum.txt)
+5. [Problem 05: Missing Coin Sum](Sorting_and_Searching/missing_coin_sum.txt)
+6. [Problem 06: Movie Festival](Sorting_and_Searching/movie_festival.txt)
+7. [Problem 07: Playlist](Sorting_and_Searching/playlist.txt)
+8. [Problem 08: Sum of Two Values](Sorting_and_Searching/sum_of_two_values.txt)
 
