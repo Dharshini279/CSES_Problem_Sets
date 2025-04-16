@@ -19,7 +19,7 @@ The repository is organized into different folders based on the categories of pr
 5. [Problem 05: Gray Code](Introductory_Problems/gray_code.txt) and [approach](Introductory_Problems/gray_code_explanation.md)
 6. [Problem 06: Increasing Array](Introductory_Problems/increasing_array.txt) and [approach](Introductory_Problems/increasing_array_explanation.md)
 7. [Problem 07: Missing Number](Introductory_Problems/missing_number.txt) and [approach](Introductory_Problems/missing_number_explanation.md)
-8. [Problem 08: Palindrome Reorder](Introductory_Problems/palindrome_reorder.txt) and [approach](Introductory_Problems/plaindrome_reorder_explanation.md)
+8. [Problem 08: Palindrome Reorder](Introductory_Problems/palindrome_reorder.txt) and [approach](Introductory_Problems/palindrome_reorder_explanation.md)
 9. [Problem 09: Permutations](Introductory_Problems/permutations.txt) and [approach](Introductory_Problems/permutations_explanation.md)
 10. [Problem 10: Repetition](Introductory_Problems/repetition.txt) and [approach](Introductory_Problems/repetition_explanation.md)
 11. [Problem 11: Trailing Zeros](Introductory_Problems/trailing_zeros.txt) and [approach](Introductory_Problems/trailing_zeros_explanation.md)
