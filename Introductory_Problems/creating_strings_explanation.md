@@ -2,7 +2,7 @@
 Given a string, your task is to generate all different strings that can be created using its characters. This means finding all unique permutations of the string.
 
 **Approach Used:**  
-- **Approach:** **Brute Force** approach is used to generate all possible permutations of the given string.  
+**Brute Force** approach is used to generate all possible permutations of the given string.  
   - The `permutations(n, len(n))` function from Python's `itertools` library is used to generate all permutations of the string.  
   - The permutations are stored in a list and converted into a set to remove duplicate permutations.  
   - The unique permutations are then sorted alphabetically and printed.
