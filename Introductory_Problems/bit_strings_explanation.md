@@ -1,4 +1,5 @@
 **Description of the Problem:**  
+
 You are given an integer `n`. The task is to calculate how many binary strings (bit strings) of length `n` exist.  
 A bit string consists only of 0s and 1s. For example, for n = 3, the total number of such strings is 2³ = 8.
 
