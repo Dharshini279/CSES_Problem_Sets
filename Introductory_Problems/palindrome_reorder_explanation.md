@@ -1,8 +1,6 @@
 ### Description:
 Given a string, the task is to reorder its letters in such a way that it forms a **palindrome**. A palindrome reads the same forwards and backwards. A palindrome can have at most one letter with an odd frequency.
 
----
-
 ### Approach:
 This solution uses the **Greedy** approach:
 
@@ -20,8 +18,6 @@ This solution uses the **Greedy** approach:
 
 4. **Return Result**:  
    - Combine the first half, middle character (if any), and the reversed first half to form the final palindrome.
-
----
 
 ### Time Complexity:
 **O(n)** — The string is processed once to build the frequency map, and then sorting and constructing the palindrome takes linear time.
