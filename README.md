@@ -26,7 +26,7 @@ The repository is organized into different folders based on the categories of pr
 12. [Problem 12: Two Knights](Introductory_Problems/two_knights.py) and [approach](Introductory_Problems/two_knights_explanation.md)
 13. [Problem 13: Two Sets](Introductory_Problems/two_sets.py) and [approach](Introductory_Problems/two_sets_explanation.md)
 14. [Problem 14: Weird Algorithm](Introductory_Problems/weird_algorithm.py) and [approach](Introductory_Problems/weird_algorithm_explanation.md)
-15. [Problem 14: Number Spiral](Introductory_Problems/number_spiral.py) and [approach](Introductory_Problems/number_spiral_explanation.md)
+15. [Problem 15: Number Spiral](Introductory_Problems/number_spiral.py) and [approach](Introductory_Problems/number_spiral_explanation.md)
 
 ### Sorting and Searching Problems
 1. [Problem 01: Collecting Numbers II](Sorting_and_Searching/collecting_numbers_II.py) and [approach](Sorting_and_Searching/collecting_numbers_II_explanation.md)
