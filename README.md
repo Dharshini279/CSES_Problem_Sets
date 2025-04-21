@@ -38,3 +38,6 @@ The repository is organized into different folders based on the categories of pr
 7. [Problem 07: Playlist](Sorting_and_Searching/playlist.py) and [approach](Sorting_and_Searching/playlist_explanation.md)
 8. [Problem 08: Sum of Two Values](Sorting_and_Searching/sum_of_two_values.py) and [approach](Sorting_and_Searching/sum_of_two_values_explanation.md)
 
+### Range Queries
+1. [Problem 01: Static Range Sum Queries]() and [approach]()
+
