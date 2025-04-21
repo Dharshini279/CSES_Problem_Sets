@@ -9,7 +9,7 @@ You are given `n` apples with known weights. The goal is to divide them into two
   - The absolute difference is `abs(total - 2 * s1)`.
   - Keep track of the minimum difference.
 
-🔎 This approach is similar to the **"Minimum Subset Sum Difference"** problem,  
+This approach is similar to the **"Minimum Subset Sum Difference"** problem,  
 which is a variation of the classic **Partition Problem** in dynamic programming —  
 but here it is solved by brute-force using combinations.
 
