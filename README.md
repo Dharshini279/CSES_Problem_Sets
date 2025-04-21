@@ -39,5 +39,5 @@ The repository is organized into different folders based on the categories of pr
 8. [Problem 08: Sum of Two Values](Sorting_and_Searching/sum_of_two_values.py) and [approach](Sorting_and_Searching/sum_of_two_values_explanation.md)
 
 ### Range Queries
-1. [Problem 01: Static Range Sum Queries]() and [approach]()
+1. [Problem 01: Static Range Sum Queries](Range_Queries/static_range_sum_queries.py) and [approach]()
 
